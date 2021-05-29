@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #a9f1df;
+  width: 100%;
+  height: 790px;
+  position: relative;
+}
+
+.cloud {
+  position: absolute;
+  top: 120px;
+  left: 60%;
+  right: auto;
+}
+
+p {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 1.2rem;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.skill-row {
+  text-align: justify;
+}
+h1 {
+  padding-top: 200px;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #1eae98;
+}
+
+h3 {
+  padding-top: 20px;
+  margin: 0;
+  font-family: 'Inconsolata', monospace;
+  font-size: 2rem;
+
+  color: #1eae98;
+}
+
+.cloud-bottom {
+  position: absolute;
+  top: 50%;
+  right: 60%;
+}
+
+.mountain {
+  position: relative;
+  top: 60px;
+}
+
+.profile {
+  padding-top: 100px;
+}
+
+h2{
+  color: #1eae98;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #a9f1df 5PX;
+  border-bottom: none;
+  width: 2%;
+}
+
+.skills{
+
+  padding-top: 100px;
+}
